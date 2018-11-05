@@ -3,6 +3,7 @@
   align-items:center;
   justify-content: space-between;
   height: $footer-height;
+  padding:30px;
 }
 
 
@@ -16,9 +17,10 @@
   color: $medium-gray;
 }
 .footer-copyright{
-  color:black;
+  color: $medium-gray;
 }
 
 .footer-copyright i{
   color:$red;
 }
+
