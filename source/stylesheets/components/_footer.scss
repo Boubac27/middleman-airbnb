@@ -1,0 +1,24 @@
+.footer{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  height: $footer-height;
+}
+
+
+.footer-links a{
+  font-size: 2em;
+  color:$gray;
+  padding: 20px;
+}
+
+.footer-links a:hover{
+  color: $medium-gray;
+}
+.footer-copyright{
+  color:black;
+}
+
+.footer-copyright i{
+  color:$red;
+}

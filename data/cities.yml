@@ -1,0 +1,11 @@
+- picture: "https://kitt.lewagon.com/placeholder/cities/shanghai"
+  name: "Shanghai"
+  adresse: "3 rue du wagon"
+
+- picture: "https://kitt.lewagon.com/placeholder/cities/berlin"
+  name: "Berlin"
+  adresse: "3 rue du wagon"
+
+- picture: "https://kitt.lewagon.com/placeholder/cities/lyon"
+  name: "Lyon"
+  adresse: "3 rue du wagon"
